@@ -11,7 +11,7 @@ A list of ideas for video games I might want to make
 - ubi simulator
   - you live in a house and food delivered to you. you slowly replace all your human needs with a simulacra of the real thing. slowly you realize that humanity has gone extinct. you have been relying on ai and tech to stay alive
 - math simulator
- - you are in a room researching math for math phd. you need something for your thesis statement but are having trouble coming up with one. you can ai to boost your creativity. but everytime you use it, you have to sacrifice part of your body
+  - you are in a room researching math for math phd. you need something for your thesis statement but are having trouble coming up with one. you can ai to boost your creativity. but everytime you use it, you have to sacrifice part of your body
 - maoist struggle session simulator
 - critical theory simulator
 - Crossguard simulator
